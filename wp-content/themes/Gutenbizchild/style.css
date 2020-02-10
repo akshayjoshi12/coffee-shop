@@ -11,7 +11,9 @@ Text Domain:  Gutenbizchild
 */
 
 /* Write here your own personal stylesheet */
-
+body{
+    font-family: 'Lato', sans-serif;
+}
 .gutenbiz-main-menu > ul > li {
     list-style: none;
     display: inline-block;
@@ -20,4 +22,7 @@ Text Domain:  Gutenbizchild
     height: 75px;
     line-height: 75px;
     vertical-align: middle;
+}
+.text-white{
+    color: #fff;
 }
